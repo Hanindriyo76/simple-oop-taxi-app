@@ -10,7 +10,7 @@ namespace taxi
             Taxi taxi = new Taxi();
 
             // penentuan nilai properties
-            taxi.DriverName = "Jono";
+            taxi.DriverName = "Bagas";
             taxi.OnDuty = true;
             taxi.NumPassenger = 10;
 
